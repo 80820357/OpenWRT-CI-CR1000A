@@ -53,7 +53,7 @@ UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "xiaorouji/openwrt-passwall2" "main" "pkg"
-UPDATE_PACKAGE "adguardhome" "openwrt-packages/tree/master/luci-app-adguardhome" "main" "pkg"
+UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages"  "master" "luci-app-adguardhome"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
