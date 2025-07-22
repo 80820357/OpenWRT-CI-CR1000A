@@ -48,7 +48,11 @@ UPDATE_PACKAGE() {
 UPDATE_PACKAGE "argon" "sbwml/luci-theme-argon" "openwrt-24.10"
 UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 
+UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
+UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
+UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
+UPDATE_PACKAGE "passwall2" "xiaorouji/openwrt-passwall2" "main" "pkg"
 UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages"  "master" "luci-app-adguardhome"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
@@ -61,7 +65,7 @@ UPDATE_PACKAGE "mosdns" "sbwml/luci-app-mosdns" "v5" "" "v2dat"
 UPDATE_PACKAGE "netspeedtest" "sirpdboy/luci-app-netspeedtest" "js" "" "homebox speedtest"
 UPDATE_PACKAGE "partexp" "sirpdboy/luci-app-partexp" "main"
 UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
-UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
+UPDATE_PACKAGE "viking" "80820357/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 
 #更新软件包版本
