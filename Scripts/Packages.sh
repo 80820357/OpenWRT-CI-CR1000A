@@ -54,6 +54,7 @@ UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "xiaorouji/openwrt-passwall2" "main" "pkg"
 UPDATE_PACKAGE "adguardhome" "kenzok8/openwrt-packages"  "master" "luci-app-adguardhome"
+UPDATE_PACKAGE "ssr-plus" "fw876/helloworld"  "master" "luci-app-ssr-plus"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
